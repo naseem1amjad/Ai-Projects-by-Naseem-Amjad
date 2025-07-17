@@ -10,5 +10,5 @@ https://github.com/naseem1amjad/Python-AI-VoiceChatGPT
 
 https://github.com/naseem1amjad/Python-AI-Image2LineArt-Conversion
 
-# Link to Videos
-https://youtu.be/xtSzvOPZqT0
+# Link to YouTube Videos on AI work (Playlist)
+https://www.youtube.com/playlist?list=PL3aZX8FtFpbP0ofscSMwMy5siGMzm6wwB
